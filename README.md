@@ -20,6 +20,10 @@ This project explores Spotify music data using **Power BI** to generate meaningf
 The dashboard allows users to interactively filter and explore music insights through slicers and visuals.
 
 ---
+Goal:
+The project focuses on analyzing Spotify music data using Power BI to understand trends in tracks, artists, popularity, and album types.
+The goal of this dashboard is to transform raw music data into meaningful insights using interactive visualizations.
+
 📁Dataset
 
 The dataset used in this project is the "Spotify tracks datset"
